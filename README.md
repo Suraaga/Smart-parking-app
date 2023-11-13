@@ -47,7 +47,7 @@ An app made using Flutter(for InOut7.0).
 
 #### REPO DETAILS :
 
-* The folder **login_page** contains the code and other required files.
+* The folder **login** contains the code and other required files.
 > Don't get confused by the folder name, it contains the entire code.
-* The Dart files are located at `login_page/lib`.
-* The **Screenshots** folder contains the screenshots of the current app.
+* The Dart files are located at `login`.
+
